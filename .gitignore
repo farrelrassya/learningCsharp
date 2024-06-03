@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+*.sln.ide
+*.userprefs
+*.vs/
+*.suo
+.DS_Store
