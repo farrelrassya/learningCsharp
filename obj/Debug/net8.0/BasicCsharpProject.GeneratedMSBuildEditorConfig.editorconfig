@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BasicCsharpProject
-build_property.ProjectDir = /Users/farrelrassya/GetStart/Basic Csharp/
+build_property.ProjectDir = /Users/farrelrassya/GetStart/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

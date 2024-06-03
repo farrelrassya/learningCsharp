@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/farrelrassya/GetStart/Basic Csharp/BasicCsharpProject.csproj",
+      "projectUniqueName": "/Users/farrelrassya/GetStart/BasicCsharpProject.csproj",
       "projectName": "BasicCsharpProject",
-      "projectPath": "/Users/farrelrassya/GetStart/Basic Csharp/BasicCsharpProject.csproj",
+      "projectPath": "/Users/farrelrassya/GetStart/BasicCsharpProject.csproj",
       "packagesPath": "/Users/farrelrassya/.nuget/packages/",
-      "outputPath": "/Users/farrelrassya/GetStart/Basic Csharp/obj/",
+      "outputPath": "/Users/farrelrassya/GetStart/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/farrelrassya/.nuget/NuGet/NuGet.Config"

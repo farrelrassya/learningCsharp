@@ -13,3 +13,18 @@
 /Users/farrelrassya/GetStart/Basic Csharp/obj/Debug/net8.0/BasicCsharpProject.pdb
 /Users/farrelrassya/GetStart/Basic Csharp/obj/Debug/net8.0/BasicCsharpProject.genruntimeconfig.cache
 /Users/farrelrassya/GetStart/Basic Csharp/obj/Debug/net8.0/ref/BasicCsharpProject.dll
+/Users/farrelrassya/GetStart/bin/Debug/net8.0/BasicCsharpProject
+/Users/farrelrassya/GetStart/bin/Debug/net8.0/BasicCsharpProject.deps.json
+/Users/farrelrassya/GetStart/bin/Debug/net8.0/BasicCsharpProject.runtimeconfig.json
+/Users/farrelrassya/GetStart/bin/Debug/net8.0/BasicCsharpProject.dll
+/Users/farrelrassya/GetStart/bin/Debug/net8.0/BasicCsharpProject.pdb
+/Users/farrelrassya/GetStart/obj/Debug/net8.0/BasicCsharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farrelrassya/GetStart/obj/Debug/net8.0/BasicCsharpProject.AssemblyInfoInputs.cache
+/Users/farrelrassya/GetStart/obj/Debug/net8.0/BasicCsharpProject.AssemblyInfo.cs
+/Users/farrelrassya/GetStart/obj/Debug/net8.0/BasicCsharpProject.csproj.CoreCompileInputs.cache
+/Users/farrelrassya/GetStart/obj/Debug/net8.0/BasicCsharpProject.sourcelink.json
+/Users/farrelrassya/GetStart/obj/Debug/net8.0/BasicCsharpProject.dll
+/Users/farrelrassya/GetStart/obj/Debug/net8.0/refint/BasicCsharpProject.dll
+/Users/farrelrassya/GetStart/obj/Debug/net8.0/BasicCsharpProject.pdb
+/Users/farrelrassya/GetStart/obj/Debug/net8.0/BasicCsharpProject.genruntimeconfig.cache
+/Users/farrelrassya/GetStart/obj/Debug/net8.0/ref/BasicCsharpProject.dll
