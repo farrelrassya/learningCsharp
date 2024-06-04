@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/runner/.dotnet/store/|arch|/|tfm|",
+      "/home/runner/TryCsharp/.cache/.nuget/packages"
+    ]
+  }
+}
